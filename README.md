@@ -10,7 +10,7 @@ for the [Sublime Text][] text editor.
 
 this repo | pypi 
 ---- | ----
-![latest tag](https://img.shields.io/github/tag/packagecontrol/ordereddict.svg) | [![pypi](https://pypip.in/version/ordereddict/badge.svg)][pypi]
+![latest tag](https://img.shields.io/github/tag/packagecontrol/ordereddict.svg) | [![pypi](https://img.shields.io/pypi/v/ordereddict.svg)][pypi]
 
 
 ## How to use *ordereddict* as a dependency
